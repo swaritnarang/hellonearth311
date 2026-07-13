@@ -10,9 +10,9 @@ java (sometimes)
 3d printers (amazing!!)
 
 ## some cool projects
-[statz](https://github.com/hellonearth311/Statz)
+[media fellowship](https://github.com/hackclub/media-fellowship)
 
-[foodie](https://github.com/hellonearth311/foodie)
+[layered](https://github.com/hellonearth311/layered)
 
 [copper rails](https://github.com/hellonearth311/copper-rails)
 
