@@ -1,19 +1,23 @@
-# my readme
-idk what to put here tbh, i just write code lol
-## i like:
-python
+i'm Swarit, and i help out at Hack Club! ([@hackclub](https://github.com/hackclub))
 
-c++
+# cool things i did
+## atlantis
+- ship 5 hours of CAD a week for 8 weeks straight, get a free 3D printer
+- [source code](https://github.com/hackclub/atlantis)
+## remixed
+- ship music related projects, win music related prizes
+- [source code](https://github.com/hackclub/remixed)
+## media fellowship
+- tell our stories. 2 teens, 50k paid salary, in-person job at Hack Club HQ in Vermont
+- [source code](https://github.com/hackclub/media-fellowship)
 
-java (sometimes)
+# cool projects i made
+## copper rails
+- a fun mod that adds copper rails to Minecraft!
+- [source code](https://github.com/hellonearth311/copper-rails)
+## global clicker
+- a clicker, but make it global
+- [source code](https://github.com/hellonearth311/global-clicker)
 
-3d printers (amazing!!)
 
-## some cool projects
-[media fellowship](https://github.com/hackclub/media-fellowship)
-
-[layered](https://github.com/hellonearth311/layered)
-
-[copper rails](https://github.com/hellonearth311/copper-rails)
-
-stay tuned for some cool 3d printer stuff!! and hack club stuff
+reach me at swarit@shipwrights.dev!
