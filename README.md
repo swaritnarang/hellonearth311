@@ -18,6 +18,3 @@ i'm Swarit, and i help out at Hack Club! ([@hackclub](https://github.com/hackclu
 ## global clicker
 - a clicker, but make it global
 - [source code](https://github.com/hellonearth311/global-clicker)
-
-
-reach me at swarit@shipwrights.dev!
